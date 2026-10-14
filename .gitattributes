@@ -301,3 +301,4 @@ codemagic.yaml -filter diff merge text
 /build/web/assets/NOTICES filter=lfs diff=lfs merge=lfs -text
 *.symbols filter=lfs diff=lfs merge=lfs -text
 *.wasm filter=lfs diff=lfs merge=lfs -text
+SideloadlySetup64.exe filter=lfs diff=lfs merge=lfs -text
