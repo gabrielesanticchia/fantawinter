@@ -78,6 +78,7 @@
 /build/app/intermediates/incremental/debug-mergeJavaRes/zip-cache/ITwPNZkeyZDoQPC54NvYOg== filter=lfs diff=lfs merge=lfs -text
 /build/app/intermediates/incremental/debug-mergeJavaRes/zip-cache/IlZuVPgho8FRlR6r95A0Yg== filter=lfs diff=lfs merge=lfs -text
 /build/app/intermediates/incremental/debug-mergeJavaRes/zip-cache/JMIxMqkPVITvD0x7C0ix7A== filter=lfs diff=lfs merge=lfs -text
+codemagic.yaml -filter diff merge text
 /build/app/intermediates/incremental/debug-mergeJavaRes/zip-cache/JedgOPoxIFPnJ1nCrY+MkA== filter=lfs diff=lfs merge=lfs -text
 /build/app/intermediates/incremental/debug-mergeJavaRes/zip-cache/JmYBuU6T_S6OSOYO2ucYRw== filter=lfs diff=lfs merge=lfs -text
 /build/app/intermediates/incremental/debug-mergeJavaRes/zip-cache/JzMUoCbmiDsMx5_PM_D9yQ== filter=lfs diff=lfs merge=lfs -text
